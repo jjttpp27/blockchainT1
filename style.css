@@ -19,6 +19,10 @@ h1 {
     text-align: center;
 }
 
+p {
+    color: black;
+}
+
 h2 {
     color: rgb(53, 105, 17);
     text-align: center;
@@ -37,6 +41,7 @@ input {
 }
 
 ::placeholder {
+    font-size: smaller;
     color: rgb(139, 167, 120);
 }
 
@@ -46,6 +51,6 @@ button {
     margin-top: 10px;
     color: rgb(187, 231, 156);
     width: 100px;
-    height: 20px;
+    height: 30px;
 
 }
